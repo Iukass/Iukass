@@ -19,9 +19,9 @@ Currently, I am still learning the gist of HTML & CSS as I do not do web develop
 In the future I will be learning Javascript & more mobile app based languages hopefully.
 
 ## Course List:
-Python: https://www.udemy.com/course/complete-python-bootcamp/
-C# Fundamentals: https://www.udemy.com/course/complete-csharp-masterclass/
-C# Unity 3D: https://www.udemy.com/course/unitycourse2/
-C++ Online Class (1on1): https://www.schoolofit.co.za/cplusplus-courses/
-HTML: https://www.youtube.com/watch?v=wRNinF7YQqQ
-CSS: https://www.youtube.com/watch?v=wRNinF7YQqQ
++ Python: https://www.udemy.com/course/complete-python-bootcamp/
++ C# Fundamentals: https://www.udemy.com/course/complete-csharp-masterclass/
++ C# Unity 3D: https://www.udemy.com/course/unitycourse2/
++ C++ Online Class (1on1): https://www.schoolofit.co.za/cplusplus-courses/
++ HTML: https://www.youtube.com/watch?v=wRNinF7YQqQ
++ CSS: https://www.youtube.com/watch?v=wRNinF7YQqQ
